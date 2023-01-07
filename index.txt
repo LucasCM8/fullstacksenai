@@ -6,7 +6,7 @@ atividade de versionamento
 </head>
 <body>
 <h1>
- GIT
+GIT
 </h1>
 </body>
 </html>
